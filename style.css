@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+h1:first-child {
+	margin: 32px 0 24px 0;
+}
+
+h2 {
+	margin: 24px 0 12px 0;
+}
+
+h3 {
+	color: green;
+}
+
+a {
+	margin: 12px 0 0 0;
+}
